@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="374ae984-604c-418a-a3c1-51ae22e05559" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RjRrfQNylZz6DoE7u9I71qF4A8" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/testData" />
+      <recent name="$PROJECT_DIR$/src/test/java/restAssuredTest" />
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/drivers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pageObject" />
+      <recent name="testCases" />
+      <recent name="restAssuredTest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/ravishankar/Documents/workspace/weinvest_assignment/src/test/resources/TestNG.xml">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.BinarySearch" />
+      <module name="webportal_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testCases.test" />
+      <module name="webportal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Add_Users_Request (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webportal_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssuredTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssuredTest" />
+      <option name="MAIN_CLASS_NAME" value="restAssuredTest.Add_Users_Request" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ravishankar/Documents/workspace/webportal_new/src/test/resources/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webportal_new" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ravishankar/Documents/workspace/weinvest_assignment/src/test/resources/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webportal" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/ravishankar/Documents/workspace/weinvest_assignment/src/test/resources/TestNG.xml" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="TestNG./Users/ravishankar/Documents/workspace/webportal_new/src/test/resources/TestNG.xml" />
+        <item itemvalue="TestNG.Add_Users_Request (1)" />
+        <item itemvalue="Application.BinarySearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="374ae984-604c-418a-a3c1-51ae22e05559" name="Default Changelist" comment="" />
+      <created>1570178718803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570178718803</updated>
+    </task>
+    <servers />
+  </component>
+</project>

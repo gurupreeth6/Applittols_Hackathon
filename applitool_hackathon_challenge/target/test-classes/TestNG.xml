@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="hackathon_Traditional" thread-count="2" verbose="1" parallel="classes">
+    <listeners>
+        <listener class-name="utils.Reporting"></listener>
+    </listeners>
+    <test name="Applitools portal test">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <!--<class name="testCases.TraditionalTests"></class>-->
+            <!--<class name="testCases.TraditionalTestsVersion2"></class>-->
+            <class name="testCases.VisualAITests"></class>
+        </classes>
+    </test>
+
+</suite>
